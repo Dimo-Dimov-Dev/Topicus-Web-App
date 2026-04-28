@@ -50,6 +50,3 @@ This separation improves maintainability, scalability, and clarity of the system
 
 ---
 
-## How to Run
-
-Setup may vary depending on the environment and current project state.
